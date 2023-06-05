@@ -1,0 +1,37 @@
+.body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    
+    }
+
+
+    .pricing-card{
+        text-align: center;
+        width: 300px;
+        height: 250px;
+        border-width: 1px;
+        border-color:rgb(210, 210, 210);
+        border-style: solid;
+        padding: 20px;
+        margin: 25px 50px;
+        float: left;
+        
+        
+        }
+
+    .a{list-style-type: none;
+        text-align: center ;
+    }
+    .Sign{ background-color:royalblue ;
+    padding: 12px;
+    border-color: azure;
+    color: aliceblue;
+    width: 90px;
+    height: 40px;
+    
+}
+.about {font-size: 15px;
+    
+color: rgb(120, 120, 120)
+
+}
